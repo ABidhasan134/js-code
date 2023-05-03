@@ -4,4 +4,4 @@
 var base=parseFloat(prompt("Enter the width="));
 var height=parseFloat(prompt("Enter the height="))
 var Area=base*height;
-document.write("Area="+Area);//this file is under the index.html file js need html file to run
+document.write("Area="+Area+"<br>");//this file is under the index.html file js need html file to run
